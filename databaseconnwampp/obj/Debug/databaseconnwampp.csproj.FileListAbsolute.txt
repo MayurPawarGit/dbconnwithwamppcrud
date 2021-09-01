@@ -1,0 +1,10 @@
+c:\users\shree\documents\visual studio 2012\Projects\databaseconnwampp\databaseconnwampp\bin\Debug\databaseconnwampp.exe.config
+c:\users\shree\documents\visual studio 2012\Projects\databaseconnwampp\databaseconnwampp\bin\Debug\databaseconnwampp.exe
+c:\users\shree\documents\visual studio 2012\Projects\databaseconnwampp\databaseconnwampp\bin\Debug\databaseconnwampp.pdb
+c:\users\shree\documents\visual studio 2012\Projects\databaseconnwampp\databaseconnwampp\bin\Debug\MySql.Data.DLL
+c:\users\shree\documents\visual studio 2012\Projects\databaseconnwampp\databaseconnwampp\obj\Debug\databaseconnwampp.dbconnectwampp.resources
+c:\users\shree\documents\visual studio 2012\Projects\databaseconnwampp\databaseconnwampp\obj\Debug\databaseconnwampp.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2012\Projects\databaseconnwampp\databaseconnwampp\obj\Debug\databaseconnwampp.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2012\Projects\databaseconnwampp\databaseconnwampp\obj\Debug\databaseconnwampp.exe
+c:\users\shree\documents\visual studio 2012\Projects\databaseconnwampp\databaseconnwampp\obj\Debug\databaseconnwampp.pdb
+c:\users\shree\documents\visual studio 2012\Projects\databaseconnwampp\databaseconnwampp\bin\Debug\System.Data.dll
